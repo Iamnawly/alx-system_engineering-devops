@@ -1,0 +1,2 @@
+#!/bin/bassh
+grep "root" /etc/passwd
