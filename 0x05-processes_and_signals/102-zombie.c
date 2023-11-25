@@ -11,7 +11,7 @@
 
 /**
  * infinite_while - Run an infinite while loop.
- *
+ * auth: Kelvin Apete
  * Return: Always 0.
  */
 int infinite_while(void)
