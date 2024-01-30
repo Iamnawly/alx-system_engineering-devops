@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #start apache2 inside docker
-service apacge2 start
+service apache2 start
 
